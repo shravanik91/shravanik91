@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shravani 
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning c & dbms
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning c, css, html & javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm bad at math 
+- ⚡ Fun fact: ...
 
 <!---
 shravanik91/shravanik91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

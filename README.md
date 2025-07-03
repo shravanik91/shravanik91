@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shravani 
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning c, css, html & javascript
+- 🌱 I’m currently learning Javascript, CSS, C/C++, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her

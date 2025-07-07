@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shravani 
-- 🌱 I’m currently learning Javascript, CSS, C/C++, Python.
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her

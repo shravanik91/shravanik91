@@ -1,1 +1,1 @@
-CS Undergrad.
+CS student
